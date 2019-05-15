@@ -72,6 +72,8 @@ https://github.com/Lubibest/100-series-hackintosh-mojave
 
 欢迎大家反馈测试结果
 
-小小白可以添加本人的QQ或加入群聊724096369 黑苹果Genius 咨询本人，或者技术支持
+小小白可以添加本人的QQ2489050703
+
+或加入群聊724096369 黑苹果Genius 咨询本人，提供远程技术支持
 
 转载请注明出处
