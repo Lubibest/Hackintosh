@@ -59,7 +59,7 @@
 
 适用于100系的主板的安装教程：
 
-
+https://github.com/Lubibest/100-series-hackintosh-mojave
 
 100系包含：
 
