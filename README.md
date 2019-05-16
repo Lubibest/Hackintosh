@@ -70,6 +70,8 @@ https://github.com/Lubibest/100-series-hackintosh-mojave
 
 --------------------------------------------------------------------
 
+安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
+
 欢迎大家反馈测试结果
 
 小小白可以添加本人的QQ2489050703
