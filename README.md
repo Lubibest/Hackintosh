@@ -10,11 +10,7 @@
 
 本文适用于**100/200/300系主板**的大部分台式机，请安装按照自己的主板型号选择教程
 
-------
-
 ## 适用于300系的主板的安装教程：
-
-[300系主板的安装教程]: https://github.com/Lubibest/300-series-hackintosh-mojave
 
 https://github.com/Lubibest/300-series-hackintosh-mojave
 
@@ -34,8 +30,6 @@ https://github.com/Lubibest/300-series-hackintosh-mojave
 
 昂达H310C
 
-------
-
 ## 适用于200系的主板的安装教程：
 
 https://github.com/Lubibest/200-series-hackintosh-mojave
@@ -51,8 +45,6 @@ https://github.com/Lubibest/200-series-hackintosh-mojave
 华硕B250/Z270
 
 其他品牌的B250/Z270
-
-------
 
 ## 适用于100系的主板的安装教程：
 
@@ -70,14 +62,18 @@ https://github.com/Lubibest/100-series-hackintosh-mojave
 
 其他品牌的H110/B150/Z170
 
-------
-
-## 安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
+### 安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 欢迎大家反馈测试结果
 
 小小白可以添加本人的QQ2489050703
 
-或加入群聊724096369 黑苹果Genius 咨询本人，提供远程技术支持
+本文EFI由 **垃圾帮主** 制作由**Genius-lbesT**发布
+
+并提供远程教学安装服务，如需远程技术支持，请添加我的QQ
+
+**作者：Genius-lbesT QQ2489050703**
+
+加入QQ群：724096369 黑苹果Genius
 
 转载请注明出处
