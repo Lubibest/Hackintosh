@@ -14,9 +14,9 @@
 
 ## 适用于300系的主板的安装教程：
 
-[适用于300系的主板的安装教程]: https://github.com/Lubibest/300-series-hackintosh-mojave
+[300系主板的安装教程]: https://github.com/Lubibest/300-series-hackintosh-mojave
 
-
+https://github.com/Lubibest/300-series-hackintosh-mojave
 
 ### 300系包含：
 
@@ -38,9 +38,7 @@
 
 ## 适用于200系的主板的安装教程：
 
-[适用于200系的主板的安装教程]: https://github.com/Lubibest/200-series-hackintosh-mojave
-
-
+https://github.com/Lubibest/200-series-hackintosh-mojave
 
 ### 200系包含：
 
