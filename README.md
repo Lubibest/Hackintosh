@@ -1,21 +1,24 @@
 # Hackintosh
-让 100/200/300 系列安装黑苹果的综合指南
 
-作者：Genius-lbesT  QQ2489050703
+## 让 100/200/300 系列安装黑苹果的综合指南
+
+作者：**Genius-lbesT**  QQ2489050703
 
 转载请注明出处
 
-加入QQ群：724096369 黑苹果Genius
+加入QQ群：724096369 **黑苹果Genius**
 
-本文适用于100/200/300系主板的大部分台式机，请安装按照自己的主板型号选择教程
+本文适用于**100/200/300系主板**的大部分台式机，请安装按照自己的主板型号选择教程
 
---------------------------------------------------------------------
+------
 
-适用于300系的主板的安装教程：
+## 适用于300系的主板的安装教程：
 
-https://github.com/Lubibest/300-series-hackintosh-mojave
+[适用于300系的主板的安装教程]: https://github.com/Lubibest/300-series-hackintosh-mojave
 
-300系包含：
+
+
+### 300系包含：
 
 微星H310/B360/Z370/Z390 
 
@@ -31,14 +34,15 @@ https://github.com/Lubibest/300-series-hackintosh-mojave
 
 昂达H310C
 
+------
 
---------------------------------------------------------------------
+## 适用于200系的主板的安装教程：
 
-适用于200系的主板的安装教程：
+[适用于200系的主板的安装教程]: https://github.com/Lubibest/200-series-hackintosh-mojave
 
-https://github.com/Lubibest/200-series-hackintosh-mojave
 
-200系包含：
+
+### 200系包含：
 
 微星B250/Z270
 
@@ -50,13 +54,13 @@ https://github.com/Lubibest/200-series-hackintosh-mojave
 
 其他品牌的B250/Z270
 
---------------------------------------------------------------------
+------
 
-适用于100系的主板的安装教程：
+## 适用于100系的主板的安装教程：
 
 https://github.com/Lubibest/100-series-hackintosh-mojave
 
-100系包含：
+### 100系包含：
 
 微星H110/B150/Z170
 
@@ -68,9 +72,9 @@ https://github.com/Lubibest/100-series-hackintosh-mojave
 
 其他品牌的H110/B150/Z170
 
---------------------------------------------------------------------
+------
 
-安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
+## 安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 欢迎大家反馈测试结果
 
