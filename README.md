@@ -66,11 +66,7 @@ https://github.com/Lubibest/100-series-hackintosh-mojave
 
 欢迎大家反馈测试结果
 
-小小白可以添加本人的QQ2489050703
-
 本文EFI由 **垃圾帮主** 制作由**Genius-lbesT**发布
-
-并提供远程教学安装服务，如需远程技术支持，请添加我的QQ
 
 **作者：Genius-lbesT QQ2489050703**
 
