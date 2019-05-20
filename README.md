@@ -62,7 +62,7 @@ https://github.com/Lubibest/100-series-hackintosh-mojave
 
 ### 其他机型：
 
-##### [NUC8-MOJAVE]_(https://github.com/Lubibest/NUC8-MOJAVE)
+##### [NUC8-MOJAVE](https://github.com/Lubibest/NUC8-MOJAVE)
 
 ### 安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
