@@ -8,9 +8,7 @@
 
 本文适用于**100/200/300系主板**的大部分台式机，请安装按照自己的主板型号选择教程
 
-## 适用于300系的主板的安装教程：
-
-https://github.com/Lubibest/300-series-hackintosh-mojave
+## [适用于300系的主板的安装教程](https://github.com/Lubibest/300-series-hackintosh-mojave)
 
 ### 300系包含：
 
@@ -28,9 +26,7 @@ https://github.com/Lubibest/300-series-hackintosh-mojave
 
 昂达H310C
 
-## 适用于200系的主板的安装教程：
-
-https://github.com/Lubibest/200-series-hackintosh-mojave
+## [适用于200系的主板的安装教程](https://github.com/Lubibest/200-series-hackintosh-mojave)
 
 ### 200系包含：
 
@@ -44,9 +40,7 @@ https://github.com/Lubibest/200-series-hackintosh-mojave
 
 其他品牌的B250/Z270
 
-## 适用于100系的主板的安装教程：
-
-https://github.com/Lubibest/100-series-hackintosh-mojave
+## [适用于100系的主板的安装教程](https://github.com/Lubibest/100-series-hackintosh-mojave)
 
 ### 100系包含：
 
@@ -64,15 +58,15 @@ https://github.com/Lubibest/100-series-hackintosh-mojave
 
 ##### [NUC8-MOJAVE](https://github.com/Lubibest/NUC8-MOJAVE)
 
-### 安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
+
+
+### 安装教程：
+
+### [How-to-install-a-Hackintosh](https://github.com/Lubibest/How-to-install-a-Hackintosh)
 
 欢迎大家反馈测试结果
 
-小小白可以添加本人的QQ2489050703
-
 本文EFI由 **垃圾帮主** 制作由**Genius-lbesT**发布
-
-并提供远程教学安装服务，如需远程技术支持，请添加我的QQ
 
 **作者：Genius-lbesT QQ2489050703**
 
