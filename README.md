@@ -1,12 +1,10 @@
 # Hackintosh
 
-## 让 100/200/300 系列安装黑苹果的综合指南
+#### 让 100/200/300 系列安装黑苹果的综合指南
 
-作者：**Genius-lbesT**  QQ2489050703
+作者：**Genius-lbesT**
 
-转载请注明出处
-
-加入QQ群：724096369 **黑苹果Genius**
+**黑苹果Genius**
 
 本文适用于**100/200/300系主板**的大部分台式机，请安装按照自己的主板型号选择教程
 
@@ -62,11 +60,19 @@ https://github.com/Lubibest/100-series-hackintosh-mojave
 
 其他品牌的H110/B150/Z170
 
+### 其他机型：
+
+##### [NUC8-MOJAVE]_(https://github.com/Lubibest/NUC8-MOJAVE)
+
 ### 安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 欢迎大家反馈测试结果
 
+小小白可以添加本人的QQ2489050703
+
 本文EFI由 **垃圾帮主** 制作由**Genius-lbesT**发布
+
+并提供远程教学安装服务，如需远程技术支持，请添加我的QQ
 
 **作者：Genius-lbesT QQ2489050703**
 
