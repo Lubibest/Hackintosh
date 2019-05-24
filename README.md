@@ -10,27 +10,13 @@
 
 ### 通用指南：
 
-#### [适用于300系的主板的安装教程](https://github.com/Lubibest/300-series-hackintosh-mojave)
-
-300系包含：微星H310/B360/Z370/Z390 技嘉H310/B360/Z370/Z390 华擎H310/B360/Z370/Z390华硕H310/B360/Z370/Z390其他品牌的H310/B360/Z370/Z390目前已知可以安装的其他品牌的主板包括：昂达H310C
-
-#### [适用于200系的主板的安装教程](https://github.com/Lubibest/200-series-hackintosh-mojave)
-
-200系包含：微星B250/Z270技嘉B250/Z270华擎B250/Z270华硕B250/Z270其他品牌的B250/Z270
-
-#### [适用于100系的主板的安装教程](https://github.com/Lubibest/100-series-hackintosh-mojave)
-
-100系包含：微星H110/B150/Z170技嘉H110/B150/Z170华擎H110/B150/Z170华硕H110/B150/Z170其他品牌的H110/B150/Z170
-
-### 其他机型指南：
-
-##### [NUC8-MOJAVE](https://github.com/Lubibest/NUC8-MOJAVE)
-
-##### [msi-b360m-mortar](https://github.com/Lubibest/MSI-B360M-MORTAR)
-
-##### [MSI-B360-GAMING-RPO-CARBON](https://github.com/Lubibest/MSI-B360-GAMING-RPO-CARBON)
-
-
+| 微星H310/B360/Z370/Z390 <br />技嘉H310/B360/Z370/Z390 <br />华擎H310/B360/Z370/Z390<br />华硕H310/B360/Z370/Z390<br />其他H310/B360/Z370/Z390<br />昂达H310C | [适用于300系的主板的安装教程](https://github.com/Lubibest/300-series-hackintosh-mojave) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 微星B250/Z270<br />技嘉B250/Z270<br />华擎B250/Z270<br />华硕B250/Z270<br />其他B250/Z270 | [适用于200系的主板的安装教程](https://github.com/Lubibest/200-series-hackintosh-mojave) |
+| 微星H110/B150/Z170<br />技嘉H110/B150/Z170<br />华擎H110/B150/Z170<br />华硕H110/B150/Z170<br />其他H110/B150/Z170 | [适用于100系的主板的安装教程](https://github.com/Lubibest/100-series-hackintosh-mojave) |
+|             NUC8(NUC8i7BEH/NUC8i5BEH/NUC8i3BEH)              |    [NUC8-MOJAVE](https://github.com/Lubibest/NUC8-MOJAVE)    |
+|               微星B360M迫击炮(AMD/intel/NVDIA)               | [msi-b360m-mortar](https://github.com/Lubibest/MSI-B360M-MORTAR) |
+|         微星-B360-GAMING-RPO-CARBON(AMD/intel/NVDIA)         | [MSI-B360-GAMING-RPO-CARBON](https://github.com/Lubibest/MSI-B360-GAMING-RPO-CARBON) |
 
 ### 本教程EFI
 
